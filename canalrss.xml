@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
  <channel> 
-<title>Academia de Formación Poniente</title> 
+<title>Academia de Formacion Poniente</title> 
 <link>https://www.fabt.es/</link> 
-<description>Actualizaciones y noticias de la Academia de Formación Poniente</description> 
+<description>Actualizaciones y noticias de la Academia de Formacion Poniente</description> 
 <language>es</language>
  <managingEditor>morcimba@hotmail.com</managingEditor> 
  <pubDate>Thu, 09 Jan 2023 09:37:00 GMT</pubDate> 
  <category>Investigaciones actuales</category> 
  <category>Experiencias de la vida</category> 
- <item> <title>Innovación en Biotecnología: Nace AndaluTech</title>
+ <item> <title>Innovacion en Biotecnologia: Nace AndaluTech</title>
  <link>https://www.fabt.es/novedades/andalutech</link> 
- <description>AndaluTech, una nueva empresa de investigación,
- ha sido fundada en Sevilla para impulsar el desarrollo de tecnologías avanzadas y biotecnología.</description> 
+ <description>AndaluTech, una nueva empresa de investigacion,
+ ha sido fundada en Sevilla para impulsar el desarrollo de tecnologias avanzadas y biotecnologia.</description> 
  <category>Investigaciones actuales</category> 
  <pubDate>Thu, 09 Jan 2025 09:37:00 GMT</pubDate> 
  </item> 
  <item> <title>El Camino del Conocimiento: Experiencias en la Academia Poniente</title> 
  <link>https://www.fabt.es/experiencias/camino-del-conocimiento</link> 
- <description>Explora las historias inspiradoras de estudiantes y profesores en la Academia de Formación Poniente.
-  Desde retos superados hasta logros destacados, estas experiencias reflejan el compromiso con la educación de calidad.</description>
+ <description>Explora las historias inspiradoras de estudiantes y profesores en la Academia de Formacion Poniente.
+  Desde retos superados hasta logros destacados, estas experiencias reflejan el compromiso con la educacion de calidad.</description>
  <category>Experiencias de la vida</category> <pubDate>Thu, 09 Jan 2025 09:37:00 GMT</pubDate> </item> </channel> </rss>
